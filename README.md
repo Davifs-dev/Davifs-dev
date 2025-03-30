@@ -1,5 +1,6 @@
 
-# **Olá, eu sou Davi Alves 👋**<br><br>Sou um estudante apaixonado por tecnologia e desenvolvimento backend. Sempre buscando aprender e aprimorar minhas habilidades em análise de dados, arquiteturas escaláveis, bancos de dados e APIs eficientes.<br><br>🤖 Sobre Mim<br><br>🎓 Estudante de Engenharia da Computação na UNIFACS.<br><br>💻 Focado em desenvolvimento backend e análise de dados.<br><br>📚 Explorando tecnologias como Python, FastAPI, MySQL, PostgreSQL e muito mais.<br><br>🛠️ Buscando oportunidades para aplicar meus conhecimentos.
+# **Olá, eu sou Davi Alves 👋**
+<br><br>Sou um estudante apaixonado por tecnologia e desenvolvimento backend. Sempre buscando aprender e aprimorar minhas habilidades em análise de dados, arquiteturas escaláveis, bancos de dados e APIs eficientes.<br><br>🤖 Sobre Mim<br><br>🎓 Estudante de Engenharia da Computação na UNIFACS.<br><br>💻 Focado em desenvolvimento backend e análise de dados.<br><br>📚 Explorando tecnologias como Python, FastAPI, MySQL, PostgreSQL e muito mais.<br><br>🛠️ Buscando oportunidades para aplicar meus conhecimentos.
 
 
 ## 🌐 Socials:
